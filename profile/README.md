@@ -2,7 +2,7 @@
 
 **TFAsoft** is a new-modern authentication platform.
 
-![Head image](head.png)
+![Head image](/profile/head.png)
 
 ## Services provided
 
