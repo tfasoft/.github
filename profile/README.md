@@ -16,11 +16,11 @@
 
 We have some services that you can use. They are all connected to subdomains.
 
-- [Dashboard](https://dashboard.amirhossein.com)
-- [Demo](https://demo.amirhossein.com)
-- [Docs](https://docs.amirhossein.com)
-- [Blog](https://blog.amirhossein.com)
-- [Mobile](https://Mobile.amirhossein.com)
+- [Dashboard](https://dashboard.amirhossein.info)
+- [Demo](https://demo.amirhossein.info)
+- [Docs](https://docs.amirhossein.info)
+- [Blog](https://blog.amirhossein.info)
+- [Mobile](https://Mobile.amirhossein.info)
 
 ### SDKs
 
@@ -35,5 +35,5 @@ If you want to use our service, use our SDKs to do easier!
 
 Also, we have 2 fantastic softwares!
 
-- [Mobile Application](https://mobile.amirhossein.com)
-- [Telegram Bot](https://mobile.amirhossein.com)
+- [Mobile Application](https://mobile.amirhossein.info)
+- [Telegram Bot](https://mobile.amirhossein.info)
