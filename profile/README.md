@@ -8,32 +8,36 @@
 
 ### API sercice
 
-**TFAsoft** has a great API sercice providing every thing! API is running in [tfasoft-api.herokuapp.com](https://tfasoft-api.herokuapp.com).
+**TFAsoft** has a great API sercice providing every thing! API is running in [api.tfasoft.com](https://api.tfasoft.com).
 
-- [API Introduction](https://api.amirhossein.info)
+- [API Introduction](https://docs.tfasoft.info)
 
-### Subdomains
+### Services
 
-We have some services that you can use. They are all connected to subdomains.
+We have some services that you can use.
 
-- [Dashboard](https://dashboard.amirhossein.info)
-- [Demo](https://demo.amirhossein.info)
-- [Docs](https://docs.amirhossein.info)
-- [Blog](https://blog.amirhossein.info)
-- [Mobile](https://Mobile.amirhossein.info)
+- [Dashboard](https://dashboard.tfasoft.com)
+- [Status](https://status.tfasoft.com)
+- [Docs](https://docs.tfasoft.com)
+- [Blog](https://blog.tfasoft.com)
 
 ### SDKs
 
 If you want to use our service, use our SDKs to do easier!
 
-- [JavaScript SDK](https://github.com/tfasoft/sdk-node)
-- [Python SDK](https://github.com/tfasoft/sdk-python)
-- [Php SDK](https://github.com/tfasoft/sdk-php)
-- [C# SDK](https://github.com/tfasoft/sdk-csharp)
+- JavaScript SDK
+  - [GitHub](https://github.com/tfasoft/sdk-node)
+  - [NPM](https://www.npmjs.com/package/tfa-node-sdk)
+- Python SDK
+  - [GitHub](https://github.com/tfasoft/sdk-python)
+  - [PyPi](https://pypi.org/project/tfa-python-sdk/)
+- Php SDK
+  - [GitHub](https://github.com/tfasoft/sdk-php)
+  - [Packagist](https://packagist.org/packages/tfasoft/sdk)
 
 ### Softwares
 
 Also, we have 2 fantastic softwares!
 
 - [Mobile Application](https://mobile.amirhossein.info)
-- [Telegram Bot](https://mobile.amirhossein.info)
+- [Telegram Bot](https://bot.amirhossein.info)
