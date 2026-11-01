@@ -1,43 +1,27 @@
-# Welcome to TFAsoft!
+# TFASoft
 
-**TFAsoft** is a new-modern authentication platform.
+**We've moved to GitLab!**
 
-![Head image](/profile/head.png)
+TFASoft has moved its primary development and repository management from GitHub to GitLab.
 
-## Services provided
+All active development, new releases, issue tracking, and repository maintenance are now centered around our GitLab organization.
 
-### API sercice
+## Our New Home
 
-**TFAsoft** has a great API sercice providing every thing! API is running in [api.tfasoft.com](https://api.tfasoft.com).
+<https://gitlab.com/tfasoft>
 
-- [API Introduction](https://docs.tfasoft.info)
+Visit our GitLab organization to explore our projects, access source code, follow development, and contribute.
 
-### Services
+## About TFASoft
 
-We have some services that you can use.
+TFASoft is a software platform focused on authentication infrastructure, developer tools, and integrated services.
 
-- [Dashboard](https://dashboard.tfasoft.com)
-- [Status](https://status.tfasoft.com)
-- [Docs](https://docs.tfasoft.com)
-- [Blog](https://blog.tfasoft.com)
+## Repository Status
 
-### SDKs
+Repositories hosted on this GitHub organization are being transitioned to GitLab.
 
-If you want to use our service, use our SDKs to do easier!
+Existing repositories may remain available here as read-only archives. Please use their corresponding GitLab repositories for the latest source code and development activity.
 
-- JavaScript SDK
-  - [GitHub](https://github.com/tfasoft/sdk-node)
-  - [NPM](https://www.npmjs.com/package/tfa-node-sdk)
-- Python SDK
-  - [GitHub](https://github.com/tfasoft/sdk-python)
-  - [PyPi](https://pypi.org/project/tfa-python-sdk/)
-- Php SDK
-  - [GitHub](https://github.com/tfasoft/sdk-php)
-  - [Packagist](https://packagist.org/packages/tfasoft/sdk)
+**GitLab:** https://gitlab.com/tfasoft
 
-### Softwares
-
-Also, we have 2 fantastic softwares!
-
-- [Mobile Application](https://mobile.amirhossein.info)
-- [Telegram Bot](https://bot.amirhossein.info)
+Thank you for following TFASoft!
